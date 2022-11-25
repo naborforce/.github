@@ -1,4 +1,4 @@
-![A collage of some of our Nabors](https://naborforce.com/wp-content/uploads/2020/08/Naborcollage.jpg)
+![Naborforce Logo]([https://naborforce.com/wp-content/uploads/2020/08/Naborcollage.jpg](https://naborforce.com/wp-content/uploads/2020/08/NF-logo-color.png))
 
 # Hello, Nabor! 👋
 
