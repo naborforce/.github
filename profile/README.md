@@ -1,4 +1,4 @@
-![Naborforce Logo](https://naborforce.com/wp-content/uploads/2020/08/NF-logo-color.png)
+![Naborforce Logo](https://github.com/naborforce/.github/assets/6691906/c078b007-5414-4684-83fa-fbff2f065255)
 
 # Hello, Nabor! 👋
 
